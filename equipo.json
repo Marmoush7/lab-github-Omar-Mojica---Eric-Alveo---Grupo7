@@ -1,12 +1,31 @@
-{
-  "integrante_a": {
-    "nombre": "PENDIENTE",
-    "github_user": "PENDIENTE",
-    "rol": "PENDIENTE"
+{ 
+
+  "integrante_a": { 
+
+    "nombre": "Omar Mojica", 
+
+    "github_user": "Marmoush7", 
+
+    "rol": "Líder de Integración" 
+
   },
+<<<<<<< HEAD
   "integrante_b": {
     "nombre": "Eric Alveo",
     "github_user": "ericalveo-netizen",
     "rol": "Desarrollador Secundario"
   }
+=======
+
+  "integrante_b": { 
+
+    "nombre": "Nombre del Integrante B", 
+
+    "github_user": "usuario_github_b", 
+
+    "rol": "Desarrollador Secundario" 
+
+  } 
+
+>>>>>>> 0f18df4834a8b66b12afe6c3c58fd630a93ed78f
 }
